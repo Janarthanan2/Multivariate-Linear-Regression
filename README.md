@@ -31,6 +31,8 @@ Print the Predicted CO2
 
 ## Program:
 ```
+#Developed by: JANARTHANAN V K
+#RegisterNumber: 212222230051
 
 import pandas as pd
 from sklearn import linear_model
